@@ -1,0 +1,8 @@
+body,input,button{
+    font: 12pt sans-serif;
+
+}
+input{
+    display: block;
+    margin-bottom: 10px;
+}
